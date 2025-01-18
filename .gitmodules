@@ -1,0 +1,3 @@
+[submodule "ESP32-RC-Car/libraries"]
+	path = ESP32-RC-Car/libraries
+	url = https://github.com/sufruuu/libraries.git
